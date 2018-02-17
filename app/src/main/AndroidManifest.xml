@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AlarmEditor" />
+        <activity android:name=".TaskEditor"></activity>
     </application>
 
 </manifest>
